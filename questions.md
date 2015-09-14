@@ -4,9 +4,11 @@
 
 3.Does being conscious to our innate bias play a role in preventing stereotyping other people? 
 
-4.
+4.Will having staff who can relate to groups of underrepresented minorities help student performance and 
+establish a safe learning environment?
 
-5.
+5.How big of a hinder in productivity do females and URMs who think they are less competent especially in STEM 
+fields verus those who do not share the belief? 
 
 6.
 
@@ -20,4 +22,3 @@
 
 Testing:
 New_Branch2 Changes
-as;fjlsjflsfj;lsadfjdsajfs
